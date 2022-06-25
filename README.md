@@ -1,4 +1,4 @@
-![chiaHsing Stats](https://github-readme-stats.vercel.app/api?username=Chia-Hsing)
+[chiaHsing Stats](https://github-readme-stats.vercel.app/api?username=Chia-Hsing)
 
 Hi! I'm Chia-Hsing
 
