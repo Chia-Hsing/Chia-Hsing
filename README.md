@@ -1,8 +1,13 @@
 ![chiaHsing Stats](https://github-readme-stats.vercel.app/api?username=Chia-Hsing)
 
+ 
+ ```csharp
 Hi! I'm Chia-Hsing
-
- "role": "frontend engineer",<br>
- "currently learing": "RxJS",<br>
- "location": "Taipei, Taiwan",<br>
- "linkedin" "[https://www.linkedin.com/in/chia-hsing-lo/](https://www.linkedin.com/in/chia-hsing-lo/)
+-------------------------
+Role: Front-end Engineer
+Location: Taipei, Taiwan
+Frameworks: React
+Languages: JavaScript, TypeScript
+Learning: RxJS
+Linkedin: [https://www.linkedin.com/in/chia-hsing-lo/](https://www.linkedin.com/in/chia-hsing-lo/)
+```
