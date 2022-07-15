@@ -4,7 +4,7 @@
 Role: Front-end Engineer
 Location: Taipei, Taiwan
 Frameworks: ReactJS
-Languages: JavaScript, TypeScript, NodeJS
+StackSkills: JavaScript, TypeScript, NodeJS
 Learning: RxJS
 Linkedin: www.linkedin.com/in/chia-hsing-lo
 ```
