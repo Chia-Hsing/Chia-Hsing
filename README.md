@@ -1,10 +1,10 @@
 ![chiaHsing Stats](https://github-readme-stats.vercel.app/api?username=Chia-Hsing)
 
  
- ```csharp
-Hi! I\'m ChiaHsing
+ ```js
+Hi! I'm ChiaHsing
 -------------------------
-Role: Front\-end Engineer
+Role: Front-end Engineer
 Location: Taipei, Taiwan
 Frameworks: React
 Languages: JavaScript, TypeScript
