@@ -2,13 +2,13 @@
 
  
  ```csharp
-Hi! I'm ChiaHsing
+Hi! I\'m ChiaHsing
 -------------------------
-Role: Front-end Engineer
+Role: Front\-end Engineer
 Location: Taipei, Taiwan
 Frameworks: React
 Languages: JavaScript, TypeScript
 Learning: RxJS
-
+Linkedin: www.linkedin.com/in/chia-hsing-lo
 ```
-Linkedin: [https://www.linkedin.com/in/chia-hsing-lo/](https://www.linkedin.com/in/chia-hsing-lo/)
+
