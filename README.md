@@ -1,10 +1,10 @@
 ```csharp
 // Hi! I'm ChiaHsing
 -------------------------
-Role: Front-end Engineer
+Role: Web Engineer
 Location: Taipei, Taiwan
 Frameworks: ReactJS
-StackSkills: JavaScript, TypeScript, NodeJS
+StackSkills: TypeScript, NodeJS
 Learning: RxJS
 Linkedin: www.linkedin.com/in/chia-hsing-lo
 ```
